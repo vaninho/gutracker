@@ -1,0 +1,4 @@
+Gods Unchained:
+Jogo de cartas na block chain.
+A ideia:
+Pegar as possiveis cartas do meu adversario.
